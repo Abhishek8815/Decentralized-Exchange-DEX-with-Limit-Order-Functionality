@@ -17,7 +17,7 @@ To build a secure and efficient decentralized exchange that supports limit order
 - Add order matching and off-chain order book for scalability
 - Implement fees and incentives for market makers and takers
 - Support for partial order fills
-- Integration with decentralized frontends and wallets
+- Integration with the decentralized frontends and wallets
 - Advanced order types like stop-loss, market orders
 
 ## Contract details
