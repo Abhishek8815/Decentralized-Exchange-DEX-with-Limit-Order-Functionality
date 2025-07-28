@@ -10,7 +10,7 @@ To build a secure and efficient decentralized exchange that supports limit order
 - Create limit orders specifying token pair and amounts
 - Fill existing limit orders to execute trades
 - Cancel orders and refund locked tokens
-- Trustless escrow of tokens within contract until order completion or cancellation
+- Trustless escrow of tokens within contract until the order completion or cancellation
 - Event logs for order lifecycle (created, filled, canceled)
 
 ## Future Scope
