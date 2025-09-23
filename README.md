@@ -1,7 +1,7 @@
 # Decentralized Exchange (DEX) with Limit Order Functionality
 
 ## Project Description
-A decentralized exchanges smart contract enabling a user the create, fill, and cancel limit orders for ERC20 tokens. It provides a trustless and transparent platform for peer-to-peer token trading.
+A decentralized exchange smart contract enabling a user the create, fill, and cancel limit orders for ERC20 tokens. It provides a trustless and transparent platform for peer-to-peer token trading.
 
 ## Project Vision
 To build a secure and efficient decentralized exchange that support limit orders, empowering users to trade tokens without intermediaries and with full custody control.
