@@ -7,7 +7,7 @@ A decentralized exchange smart contract enabling a users the create, fill, and c
 To build a secure and efficient decentralized exchange that support limit orders, empowering users to trade tokens without intermediaries and with fully custody control.
 
 ## Key Features
-- Create limit orders specifying token pair and amounts
+- Create limit orders and specifying token pair and amounts
 - Fill existing limit orders to execute trades
 - Cancel orders and refund locked tokens
 - Trustless escrow of tokens within contract until the order completion or cancellation
