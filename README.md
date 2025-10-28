@@ -4,7 +4,7 @@
 A decentralized exchanges smart contract enabling a users create, fill, and cancel limit orders for ERC20 tokens. It provides a trustless and transparent the platform for peer-to-peer token trading.
 
 ## Project Vision
-To build a secure and efficient decentralized exchanges that support limit orders, empowering users to trade tokens without intermediaries and with fully custody control.
+To build a secure and efficient decentralized exchange that support limit orders, empowering users to trade tokens without intermediaries and with fully custody control.
 
 ## Key Features
 - Create limit orders and specifying token pair and amounts
